@@ -1,6 +1,8 @@
-addpath matting\
-addpath gaimc\
+pkg load image
+addpath matting
+addpath gaimc
 N = 60;
+
 
 for i = 1:N
     prefix = '../examples/input/';
