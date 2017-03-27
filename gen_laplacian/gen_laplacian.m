@@ -1,7 +1,7 @@
 pkg load image
 addpath matting
 addpath gaimc
-N = 2;
+N = 1;
 
 
 for i = 1:N
